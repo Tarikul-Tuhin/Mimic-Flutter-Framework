@@ -1,5 +1,5 @@
 # Mimic Flutter Framework
-*A lightweight, educational re-implementation of Flutter’s core widget system — built from scratch to deeply understand how Flutter actually works under the hood.*
+*A lightweight, educational re-implementation of Flutter’s core widget system, built from scratch to deeply understand how Flutter actually works under the hood.*
 
 
 ## Overview
@@ -13,7 +13,7 @@ Instead, it aims to **demystify** it by re-creating the core concepts of:
 - `StatefulWidget` / `StatelessWidget`
 - `State`
 - `BuildContext`
-- Rebuild lifecycle
+- `Rebuild lifecycle`
 
 If you’ve ever wondered *how `setState()` really works*, or *why widgets are immutable but still rebuild*, this framework is the best hands-on way to learn it.
 
@@ -30,7 +30,7 @@ If you’ve ever wondered *how `setState()` really works*, or *why widgets are i
 | **BuildContext** | A reference to the current `Element` — used to locate ancestors in the tree. |
 
 
-🧩 Learning Objectives
+## 🧩 Learning Objectives
 
 Through this mini-framework, we will get a gist idea of:
 
@@ -41,7 +41,8 @@ Through this mini-framework, we will get a gist idea of:
 - **Recognize what BuildContext really represents (a reference to the current Element).**
 
 🧑‍💻 Author
-Tarikul Islam
-Learning Flutter from the inside out 🧠
+
+**Tarikul Islam**
+Learning Flutter from the inside out
 
 Contact me on **LinkedIn** -> https://www.linkedin.com/in/tarikul-islam-a2785118a
