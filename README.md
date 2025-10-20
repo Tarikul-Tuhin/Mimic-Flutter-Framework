@@ -42,7 +42,7 @@ Through this mini-framework, we will get a gist idea of:
 
 🧑‍💻 Author
 
-**Tarikul Islam**
-Learning Flutter from the inside out
+- **Tarikul Islam**
+- Learning Flutter from the inside out
 
 Contact me on **LinkedIn** -> https://www.linkedin.com/in/tarikul-islam-a2785118a
