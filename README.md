@@ -41,7 +41,7 @@ Through this mini-framework, we will get a gist idea of:
 - **Recognize what BuildContext really represents (a reference to the current Element).**
 
 ## 🧑‍💻 Author
-**Tarikul Islam**\n
+**Tarikul Islam**/n
 Learning Flutter from the inside out
 
 Contact me on **LinkedIn** -> https://www.linkedin.com/in/tarikul-islam-a2785118a
