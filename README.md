@@ -40,9 +40,8 @@ Through this mini-framework, we will get a gist idea of:
 - **Learn how setState() triggers only the local rebuild, not the entire app.**
 - **Recognize what BuildContext really represents (a reference to the current Element).**
 
-🧑‍💻 Author
-
-- **Tarikul Islam**
-- Learning Flutter from the inside out
+## 🧑‍💻 Author
+**Tarikul Islam**
+Learning Flutter from the inside out
 
 Contact me on **LinkedIn** -> https://www.linkedin.com/in/tarikul-islam-a2785118a
